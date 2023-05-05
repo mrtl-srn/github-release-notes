@@ -53,7 +53,7 @@
         "github-api": "^3.0.0",
         "inquirer": "^3.3.0",
         "install": "^0.10.1",
-        "js-beautify": "^1.7.4",
+        "js-beautify": "^1.14.7",
         "json2yaml": "^1.1.0",
         "minimist": "^1.2.0",
         "node-fetch": "^1.7.3",
