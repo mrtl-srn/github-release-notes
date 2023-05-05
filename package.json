@@ -48,7 +48,7 @@
         "babel-runtime": "^6.26.0",
         "base-64": "^0.1.0",
         "chalk": "^2.1.0",
-        "commander": "^2.11.0",
+        "commander": "^2.20.3",
         "connectivity": "^1.0.0",
         "github-api": "^3.0.0",
         "inquirer": "^3.3.0",
